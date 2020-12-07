@@ -2,4 +2,4 @@ import myhelper
 
 print('Hello World.\n')
 
-myhelper.count_indians(3)
+myhelper.count_rhinos(3)
